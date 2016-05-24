@@ -1,2 +1,2 @@
 # Rockzchannel
-my first project
+my first android project
